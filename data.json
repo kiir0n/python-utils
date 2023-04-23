@@ -1,14 +1,14 @@
 {
     "spotify" : {
-        "client_secret" : "f55434f7651447e2a1ddcd7731c165af",
-        "client_id" : "055b02be19324978af21ca10ab5c2ee1"
+        "client_secret" : "CLIENT_SECRET",
+        "client_id" : "CLIENT_ID"
     },
     
     "musixmatch" : {
-        "api_key" : "1d9ee17d66050be785b93a1a26188300"
+        "api_key" : "API_KEY"
     },
     
     "genius" : {
-        "token" : "6e7061JGk--04v6RIXyOfbcYpPO4fqATXiscJ3QIz83vg7jpTtQ0dKA5t-ck6nmF"
+        "token" : "TOKEN"
     }
 }
